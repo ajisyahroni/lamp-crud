@@ -1,0 +1,12 @@
+nama databasenya dbku 
+nama tabelnya basic_crud
+kolom tabel basic_crud 
+    id 
+    name
+    nim
+    birth_date
+    address
+
+selamat belajar 
+ingat ujian UTS adalah sebagian kecil dari ujian hidup anda
+
